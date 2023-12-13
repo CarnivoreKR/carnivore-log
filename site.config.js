@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "carnivorekr",
+    name: "Carnivore",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Carnivore Blog",
-    bio: "카니보어 코리아",
+    role: "Carnivore Korea",
+    bio: "카니보어 한국 커뮤니티, 카니보어 코리아",
     email: "contact@carnivore.kr",
     linkedin: "",
     github: "CarnivoreKR",
@@ -12,20 +12,25 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Website`,
+      href: "https://carnivore.kr/",
+    },
+    {
+      name: `Discord`,
+      href: "https://discord.carnivore.kr/",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Carnivore Blog",
+    description: "Welcome to Carnivore Blog!",
+    theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  link: "https://blog.carnivore.kr",
+  since: 2023, // If leave this empty, current year will be used.
+  lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
