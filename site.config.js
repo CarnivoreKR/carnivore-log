@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Carnivore",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatar.png",
     role: "Carnivore Korea",
     bio: "카니보어 한국 커뮤니티",
     email: "contact@carnivore.kr",
