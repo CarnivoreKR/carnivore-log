@@ -30,7 +30,7 @@ const CONFIG = {
     seo: {
       keywords: ["Blog", "Website", "Notion", "Carnivore", "Keto", "LowCarb"],
         },
-  }
+  },
   // CONFIG configration (required)
   link: "https://blog.carnivore.kr",
   since: 2023, // If leave this empty, current year will be used.
