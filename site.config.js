@@ -14,11 +14,11 @@ const CONFIG = {
   },
   projects: [
     {
-      name: "Website",
+      name: "공식사이트",
       href: "https://carnivore.kr/",
     },
     {
-      name: "Discord",
+      name: "디스코드",
       href: "https://discord.carnivore.kr/",
     },
   ],
@@ -28,9 +28,8 @@ const CONFIG = {
     description: "Welcome to Carnivore Blog!",
     theme: "auto", // ['light', 'dark', 'auto']
     seo: {
-    keywords: ["Blog", "Website", "Notion", "Carnivore", "Keto", "LowCarb"],
-  },
-    
+      keywords: ["Blog", "Website", "Notion", "Carnivore", "Keto", "LowCarb"],
+        },
   }
   // CONFIG configration (required)
   link: "https://blog.carnivore.kr",
