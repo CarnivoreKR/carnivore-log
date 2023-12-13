@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Carnivore",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Carnivore Korea",
-    bio: "카니보어 한국 커뮤니티, 카니보어 코리아",
+    bio: "카니보어 한국 커뮤니티",
     email: "contact@carnivore.kr",
     linkedin: "",
     github: "CarnivoreKR",
@@ -12,11 +12,11 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Website`,
+      name: "Website",
       href: "https://carnivore.kr/",
     },
     {
-      name: `Discord`,
+      name: "Discord",
       href: "https://discord.carnivore.kr/",
     },
   ],
