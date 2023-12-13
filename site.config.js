@@ -10,7 +10,7 @@ const CONFIG = {
     github: "CarnivoreKR",
     youtube: "CarnivoreKR",
     twitter: "CarnivoreKR",
-    instagram: "carnivore.kr",
+    instagram: "carnivore.kr"
   },
   projects: [
     {
@@ -20,7 +20,7 @@ const CONFIG = {
     {
       name: "디스코드",
       href: "https://discord.carnivore.kr/",
-    },
+    }
   ],
   // blog setting (required)
   blog: {
