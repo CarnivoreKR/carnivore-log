@@ -29,7 +29,7 @@ const CONFIG = {
     theme: "auto", // ['light', 'dark', 'auto']
     seo: {
       keywords: ["Blog", "Website", "Notion", "Carnivore", "Keto", "LowCarb"],
-        },
+        }
   },
   // CONFIG configration (required)
   link: "https://blog.carnivore.kr",
